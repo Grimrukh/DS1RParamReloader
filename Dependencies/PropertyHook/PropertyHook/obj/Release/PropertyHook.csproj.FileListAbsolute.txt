@@ -1,0 +1,14 @@
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\bin\Release\PropertyHook.xml
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\bin\Release\PropertyHook.dll
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\bin\Release\PropertyHook.pdb
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.csprojAssemblyReference.cache
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.csproj.CoreCompileInputs.cache
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.dll
+G:\Dark Souls\Projects\Lordrandomizer\Lordrandomizer\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.pdb
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\bin\Release\PropertyHook.xml
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\bin\Release\PropertyHook.dll
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\bin\Release\PropertyHook.pdb
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.csprojAssemblyReference.cache
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.csproj.CoreCompileInputs.cache
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.dll
+G:\Dark Souls\Projects\RoguelikeSouls\Dependencies\PropertyHook\PropertyHook\obj\Release\PropertyHook.pdb

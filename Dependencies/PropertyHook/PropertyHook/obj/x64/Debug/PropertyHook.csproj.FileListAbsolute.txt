@@ -1,0 +1,14 @@
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\bin\x64\Debug\PropertyHook.dll
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\bin\x64\Debug\PropertyHook.pdb
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\bin\x64\Debug\PropertyHook.xml
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.csprojAssemblyReference.cache
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.csproj.CoreCompileInputs.cache
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.dll
+G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.pdb
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\bin\x64\Debug\PropertyHook.dll
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\bin\x64\Debug\PropertyHook.pdb
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\bin\x64\Debug\PropertyHook.xml
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.csprojAssemblyReference.cache
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.csproj.CoreCompileInputs.cache
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.dll
+G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Debug\PropertyHook.pdb
