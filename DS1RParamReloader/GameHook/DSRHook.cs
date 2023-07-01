@@ -7,6 +7,9 @@ namespace DS1RParamReloader.GameHook;
 
 internal class DSRHook : PHook
 {
+    /// <summary>
+    /// Maps known memory sizes to their version strings.
+    /// </summary>
     static Dictionary<int, string> VersionStrings { get; } = new()
     {
         [0x4869400] = "1.01",
@@ -26,10 +29,10 @@ internal class DSRHook : PHook
     {
         get
         {
-            if (!Hooked) return "N/A";
+            if (!Hooked || Process.MainModule == null)
+                return "N/A";
             int size = Process.MainModule.ModuleMemorySize;
-            return VersionStrings.TryGetValue(size, out string version) ? version : $"0x{size:X8}";
-
+            return VersionStrings.GetValueOrDefault(size, $"0x{size:X8}");
         }
     }
 
