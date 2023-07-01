@@ -1,6 +1,0 @@
-G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\bin\x64\Release\PropertyHook.dll
-G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\bin\x64\Release\PropertyHook.pdb
-G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\bin\x64\Release\PropertyHook.xml
-G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Release\PropertyHook.csproj.CoreCompileInputs.cache
-G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Release\PropertyHook.dll
-G:\Dark Souls\Projects\ParamReloader\ParamReloader\Dependencies\PropertyHook\PropertyHook\obj\x64\Release\PropertyHook.pdb
