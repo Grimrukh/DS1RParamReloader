@@ -19,3 +19,10 @@ G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyH
 G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.csproj.CoreCompileInputs.cache
 G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.dll
 G:\Dark Souls\Projects\StJude2021\StJude2021\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.pdb
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\bin\Debug\PropertyHook.xml
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\bin\Debug\PropertyHook.dll
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\bin\Debug\PropertyHook.pdb
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.csproj.AssemblyReference.cache
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.csproj.CoreCompileInputs.cache
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.dll
+C:\Dark Souls\Projects\DS1RParamReloaderGUI\Dependencies\PropertyHook\PropertyHook\obj\Debug\PropertyHook.pdb
